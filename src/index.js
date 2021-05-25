@@ -2,7 +2,7 @@
  * @author Allen Liu
  * @desc A flexible mobile page adaptation scheme based on lib-flexible.
  */
-(function flexibleRem(window, document) {
+(function strongRem(window, document) {
     var docEl = document.documentElement;
     var isIPhone = window.navigator.appVersion.match(/iphone/gi);
     var dpr = isIPhone ? window.devicePixelRatio : 1;

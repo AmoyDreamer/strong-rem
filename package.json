@@ -1,5 +1,5 @@
 {
-  "name": "flexible-rem",
+  "name": "strong-rem",
   "version": "1.0.0",
   "description": "A flexible mobile page adaptation scheme based on lib-flexible.",
   "main": "index.js",
@@ -10,17 +10,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AmoyDreamer/flexible-rem.git"
+    "url": "git+https://github.com/AmoyDreamer/strong-rem.git"
   },
   "keywords": [
-    "flexible-rem"
+    "rem",
+    "px2rem",
+    "mobile",
+    "adaptation",
+    "viewport",
+    "flexible",
+    "lib-flexible"
   ],
   "author": "Allen Liu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AmoyDreamer/flexible-rem/issues"
+    "url": "https://github.com/AmoyDreamer/strong-rem/issues"
   },
-  "homepage": "https://github.com/AmoyDreamer/flexible-rem#readme",
+  "homepage": "https://github.com/AmoyDreamer/strong-rem#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-uglify": "^3.0.2"
